@@ -19,4 +19,4 @@ Feel free to explore my projects and reach out if you'd like to connect!
 
 For more details on my qualifications and experience, please check out my **Resume** in the below link:
 
-[View My CV](./Abdulaziz_AlTayar_Resume.pdf)
+[View My CV](./AlTayar_Resume.pdf)
