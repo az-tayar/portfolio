@@ -12,6 +12,7 @@ Following my graduation, I made a deliberate transition into the field of Artifi
 
 Feel free to explore my projects and reach out if you'd like to connect!
 
+- Portfolio: https://az-tayar.github.io/az-tayar/
 - LinkedIn: https://www.linkedin.com/in/abdulaziz-al-tayar/
 - Email: az.tayar23@gmail.com
 
